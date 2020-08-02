@@ -1,0 +1,3 @@
+C:\Users\colin\source\repos\Home Radio Server\Home Radio Server\bin\Debug\netcoreapp3.1\Home Radio Server.exe
+C:\Users\colin\source\repos\Home Radio Server\Home Radio Server\obj\Debug\netcoreapp3.1\Home Radio Server.AssemblyInfoInputs.cache
+C:\Users\colin\source\repos\Home Radio Server\Home Radio Server\obj\Debug\netcoreapp3.1\Home Radio Server.AssemblyInfo.cs

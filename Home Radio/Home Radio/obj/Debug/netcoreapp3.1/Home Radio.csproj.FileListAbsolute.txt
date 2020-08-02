@@ -1,0 +1,16 @@
+C:\Users\colin\source\repos\Home Radio\Home Radio\bin\Debug\netcoreapp3.1\Home Radio.exe
+C:\Users\colin\source\repos\Home Radio\Home Radio\obj\Debug\netcoreapp3.1\Home Radio.csprojAssemblyReference.cache
+C:\Users\colin\source\repos\Home Radio\Home Radio\obj\Debug\netcoreapp3.1\Home Radio.AssemblyInfoInputs.cache
+C:\Users\colin\source\repos\Home Radio\Home Radio\obj\Debug\netcoreapp3.1\Home Radio.AssemblyInfo.cs
+C:\Users\colin\source\repos\Home Radio\Home Radio\bin\Debug\netcoreapp3.1\Home Radio.deps.json
+C:\Users\colin\source\repos\Home Radio\Home Radio\bin\Debug\netcoreapp3.1\Home Radio.runtimeconfig.json
+C:\Users\colin\source\repos\Home Radio\Home Radio\bin\Debug\netcoreapp3.1\Home Radio.runtimeconfig.dev.json
+C:\Users\colin\source\repos\Home Radio\Home Radio\bin\Debug\netcoreapp3.1\Home Radio.dll
+C:\Users\colin\source\repos\Home Radio\Home Radio\bin\Debug\netcoreapp3.1\Home Radio.pdb
+C:\Users\colin\source\repos\Home Radio\Home Radio\bin\Debug\netcoreapp3.1\NAudio.dll
+C:\Users\colin\source\repos\Home Radio\Home Radio\bin\Debug\netcoreapp3.1\System.Resources.Extensions.dll
+C:\Users\colin\source\repos\Home Radio\Home Radio\obj\Debug\netcoreapp3.1\Home Radio.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\Home Radio\Home Radio\obj\Debug\netcoreapp3.1\Home Radio.csproj.CopyComplete
+C:\Users\colin\source\repos\Home Radio\Home Radio\obj\Debug\netcoreapp3.1\Home Radio.dll
+C:\Users\colin\source\repos\Home Radio\Home Radio\obj\Debug\netcoreapp3.1\Home Radio.pdb
+C:\Users\colin\source\repos\Home Radio\Home Radio\obj\Debug\netcoreapp3.1\Home Radio.genruntimeconfig.cache
